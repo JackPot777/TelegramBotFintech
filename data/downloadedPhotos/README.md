@@ -1,0 +1,1 @@
+A Folder Where Photos, Downloaded by bot will be saved
