@@ -8,7 +8,7 @@ Current version = 0.2.0
 
     Alexander M
     Olga A
-    [Saymon S](https://github.com/Saymjn)
+    Saymon S
 
 ## Versions
 
