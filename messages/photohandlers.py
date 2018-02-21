@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Inside this file functions, working with photos are located
+File with handlers involving photos
 """
 from time import gmtime, strftime
 

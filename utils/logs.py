@@ -1,5 +1,5 @@
 """
-Inside this file logging function will be located
+File with logging stuff
 """
 
 import logging

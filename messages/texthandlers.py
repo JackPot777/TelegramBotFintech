@@ -1,5 +1,5 @@
 """
-Inside this file functions, working with text are located
+File with handlers involving text messages
 """
 
 def echo(bot, update):
