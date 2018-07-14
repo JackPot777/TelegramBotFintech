@@ -3,9 +3,11 @@ File with functions, that can be used only by admins
 """
 
 from configuration.private import ADMIN_PASSWORD, ADMINS_LIST
-from configuration.public import admin_auto_login
+
 # List storing currently logged in Admins
 loginedAdmins = []
+
+admin_auto_login = True
 
 if admin_auto_login == True:
     loginedAdmins.extend(ADMINS_LIST)
